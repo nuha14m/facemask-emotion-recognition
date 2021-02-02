@@ -1,2 +1,2 @@
 # facemask-emotion-recognition
-Convolutional Neural Network to classify emotions of people wearing masks 
+Convolutional Neural Network that can classify emotions of people wearing masks.
